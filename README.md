@@ -1,1 +1,2 @@
-# Репозиторий для обучения по курсу Big Data Geebrains
+# Big Data
+Репозиторий для обучения по курсу Big Data Geebrains
