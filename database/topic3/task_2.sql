@@ -1,9 +1,9 @@
 -- Таблица users была неудачно спроектирована. Записи created_at и updated_at были заданы типом VARCHAR и в них долгое время помещались значения в формате "20.10.2017 8:10". Необходимо преобразовать поля к типу DATETIME, сохранив введеные ранее значения.
 
--- создаем исходные данные 
-DROP DATABASE IF EXISTS vk;
-CREATE DATABASE vk;
-USE vk;
+-- создаем исходные данные
+DROP DATABASE IF EXISTS test;
+CREATE DATABASE test;
+USE test;
 
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
@@ -31,7 +31,7 @@ CREATE TABLE users_1 (
 
 -- заполняем таблицу users_1 данными users с преобразованием полей created_at, update_at в DATETIME
 INSERT INTO users_1
-    SELECT 
+    SELECT
         id,
         name,
         STR_TO_DATE(created_at, '%d.%m.%Y %H:%i') as created_at,
@@ -40,7 +40,7 @@ INSERT INTO users_1
 
 
 -- заменяем таблицу users таблицей users_1
-DROP TABLE users; 
+DROP TABLE users;
 RENAME TABLE users_1 TO users;
 
 SELECT * FROM users;

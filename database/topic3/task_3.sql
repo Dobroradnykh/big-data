@@ -1,9 +1,9 @@
 -- В таблице складских запасов storehouses_products в поле value могут встречаться самые разные цифры: 0, если товар закончился и выше нуля, если на складе имеются запасы. Необходимо отсортировать записи таким образом, чтобы они выводились в порядке увеличения значения value. Однако, нулевые запасы должны выводиться в конце, после всех записей.
 
 -- создаем исходные данные
-DROP DATABASE IF EXISTS vk;
-CREATE DATABASE vk;
-USE vk;
+DROP DATABASE IF EXISTS test;
+CREATE DATABASE test;
+USE test;
 
 CREATE TABLE storehouses_products (
     id SERIAL PRIMARY KEY,

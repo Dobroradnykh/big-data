@@ -1,9 +1,9 @@
 -- Пусть в таблице users поля created_at и updated_at оказались незаполненными. Заполните их текущими датой и временем.
 
--- создаем исходные данные 
-DROP DATABASE IF EXISTS vk;
-CREATE DATABASE vk;
-USE vk;
+-- создаем исходные данные
+DROP DATABASE IF EXISTS test;
+CREATE DATABASE test;
+USE test;
 
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
