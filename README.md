@@ -14,3 +14,4 @@
     + [Урок 4](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4)
 		+ [Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_1.sql)
 		+ [Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_2.sql)
+		+ [Задание 3 доп.](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_3.sql)
