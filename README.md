@@ -2,7 +2,7 @@
 
 Репозиторий для обучения по курсу Big Data Geekbrains
 
-####Домашние задания
+###Домашние задания
                 
 + [База данных](https://github.com/Dobroradnykh/big-data/tree/master/database)
     + [Урок 3](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3)
