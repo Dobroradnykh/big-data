@@ -5,5 +5,10 @@
 #### Домашние задания
 
 + [База данных](https://github.com/Dobroradnykh/big-data/tree/master/database)
-    + [Урок 3](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3)
+    + [Урок 3](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3)    
+		+ [Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3/task_1.sql)
+		+ [Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3/task_2.sql)
+		+ [Задание 3](https://github.com/Dobroradnykh/big-data/tree/master/database/topic3/task_3.sql)
     + [Урок 4](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4)
+		+ [Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_1.sql)
+		+ [Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_2.sql)
