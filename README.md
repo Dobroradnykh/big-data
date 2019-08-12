@@ -15,3 +15,8 @@
 		+ [Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_1.sql)
 		+ [Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_2.sql)
 		+ [Задание 3 доп.](https://github.com/Dobroradnykh/big-data/tree/master/database/topic4/task_3.sql)
+    + [Урок 5](https://github.com/Dobroradnykh/big-data/tree/master/database/topic5)
+		+ [Тема 1, Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic5/complex_queries_1.sql)
+		+ [Тема 1, Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic5/complex_queries_2.sql)
+		+ [Тема 2, Задание 1](https://github.com/Dobroradnykh/big-data/tree/master/database/topic5/tк_1.sql)
+		+ [Тема 2, Задание 2](https://github.com/Dobroradnykh/big-data/tree/master/database/topic5/tr_2.sql)
